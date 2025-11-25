@@ -412,7 +412,7 @@ const ReefFocus = () => {
         {/* Ad Container */}
         <div className="w-full max-w-[728px] h-[90px] bg-white/5 border border-white/5 rounded-lg flex items-center justify-center relative overflow-hidden group">
           {/* Instructions Overlay (Visible until properly configured) */}
-          {ADSENSE_PUBLISHER_ID === "ca-pub-0000000000000000" && (
+          {ADSENSE_PUBLISHER_ID === "ca-pub-5370113062591091" && (
             <div className="absolute inset-0 flex flex-col items-center justify-center text-white/20 text-xs p-4 text-center select-none">
               <span className="font-bold mb-1">Ad Space</span>
               <span>Waiting for configuration</span>
